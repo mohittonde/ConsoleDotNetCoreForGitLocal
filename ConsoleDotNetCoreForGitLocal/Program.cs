@@ -7,6 +7,7 @@ namespace ConsoleDotNetCoreForGitLocal
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("gitcheking");
         }
     }
 }
